@@ -19,3 +19,7 @@ github_username:  D-HAC
 
 # Build settings
 markdown: kramdown
+
+collections:
+    puzzles:
+        output: true
