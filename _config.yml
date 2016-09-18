@@ -1,0 +1,21 @@
+# Welcome to Jekyll!
+#
+# This config file is meant for settings that affect your whole blog, values
+# which you are expected to set up once and rarely need to edit after that.
+# For technical reasons, this file is *NOT* reloaded automatically when you use
+# 'jekyll serve'. If you change this file, please restart the server process.
+
+# Site settings
+title: Drexel Hackathon and Coding Club (D-HAC)
+email: drexel.hac@gmail.com
+description: >
+    The goal of the Drexel Hackathon and Coding Club is to encourage people
+    to code and assist those who would like to learn how to program. We do not
+    care how much coding experience you have as long as you have an interest in
+    programming and a desire to learn.
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "https://d-hac.github.io" # the base hostname & protocol for your site
+github_username:  D-HAC
+
+# Build settings
+markdown: kramdown
