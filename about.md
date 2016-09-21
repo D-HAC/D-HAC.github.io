@@ -6,6 +6,8 @@ permalink: /about/
 
 # What We Do
 
+<!-- TODO: Update this description -->
+
 Each week, the lab members tackle a coding challenge in a little healthy
 competition (that I have dubbed a "codeoff"). Essentially, the lab members will
 race each other to see who can find an efficient solution to the challenge
