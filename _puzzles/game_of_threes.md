@@ -40,6 +40,10 @@ Today we have two
 
 ## Mini Project Ideas
 
+If you'd like something more advanced than the above, try one of these
+project ideas! Feel free to make up your own project idea, but try to involve
+this week's theme of integer divisibility.
+
 * Stripes - write a console program that displays stripes. Every Nth line,
     print a line of different characters. Examples:
 
