@@ -29,7 +29,6 @@ removeCharFromString("Not creative example", 'z') #=> "Not creative example"
 
 This puzzle focuses on being able to remove characters from a string but also keeping the order of the characters that you remove. If you've completed the previous method you should be able to solve this problem by only modifying it slightly. 
 
-LINK TO PUZZLE:
 [/r/dailyprogrammer: Disemvoweler](https://www.reddit.com/r/dailyprogrammer/comments/1ystvb/022414_challenge_149_easy_disemvoweler/)
 
 ## Mini Project Ideas
@@ -38,4 +37,6 @@ If you'd like something more advanced than the above, try one of these
 project ideas! Feel free to make up your own project idea, but try to involve
 this week's theme of removing things from lists. 
 
-*Try writing a function a function that removes elements from a multidemensional list. 
+* Try writing a function a function that removes elements from a multidemensional list. 
+* Imagine that you have to maintain a list of students from year to year. At the end of the year you have to remove all of the students that graduated. create a function or small system to support this. 
+
