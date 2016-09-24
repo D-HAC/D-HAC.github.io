@@ -2,7 +2,7 @@
 layout: page
 title: "Game of Threes: Integer Divisibility"
 permalink: /puzzle/game-of-threes
-hide: false
+hide: true
 ---
 
 Integer divisibility might sound boring, but it is actually quite
