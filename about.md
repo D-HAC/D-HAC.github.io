@@ -6,11 +6,30 @@ permalink: /about/
 
 # What We Do
 
-<!-- TODO: Update this description -->
-
-The core mission of the Drexel Hackathon and Coding club is to give everyone the oppertunity to work on and discuss interesting programming challenges in a risk and judgement free environment. Each week, our members get together to talk about code, learn about development through discussion, and ultimately work on a programming challenge. Our officers have worked very hard to make sure that each week the challenges are accessable to all developers, regardelss of skill level. So, if you're looking for a club that will let you meet other developers and work together to solve problems, or one where you can hone your own skills and get feedback from your peers, you've found the right place. 
+The core mission of the Drexel Hackathon and Coding club is to give everyone the
+opportunity to work on and discuss interesting programming challenges in a risk
+and judgement free environment. Each week, our members get together to talk
+about code, learn about development through discussion, and ultimately work on
+a programming challenge. Our officers have worked very hard to make sure that
+each week the challenges are accessible to all developers, regardless of skill 
+level. So, if you're looking for a club that will let you meet other developers
+and work together to solve problems, or one where you can hone your own skills
+and get feedback from your peers, you've found the right place.
 
 # Meetings
 
 **Time**: Wednesdays, 5:00-6:00  
-**Location**: [Drexel eXcite Center](http://drexel.edu/excite/)
+**Location**: [ExCITe Center](http://drexel.edu/excite/) -
+    The building is 3401 Market Street (northwest corner of 34st and Market).
+
+When you enter:
+
+1. Show your Drexel ID to the security guard at the desk.
+2. Go straight up a few stairs and go through the door with glass in
+    the middle.
+3. Turn left and walk down the hallway almost to the end.
+4. You will find yourself with glass doors to your left and right. The ones
+    on the right will be at an angle. We are through the doors on the right.
+5. The doors are locked, but we will try our best to have someone at the door
+    to let everyone in. If we are not there, contact us through the phone
+    number listed in the weekly newsletter.
