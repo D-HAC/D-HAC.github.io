@@ -8,16 +8,7 @@ permalink: /about/
 
 <!-- TODO: Update this description -->
 
-Each week, the lab members tackle a coding challenge in a little healthy
-competition (that I have dubbed a "codeoff"). Essentially, the lab members will
-race each other to see who can find an efficient solution to the challenge
-first. The challenges are fun projects that range in difficulty and can be
-solved in any language that the programmer chooses. (These challenges are
-usually just taken from /r/dailyprogrammer.) Though this is a competition, lab
-members are encouraged to help each other if they are having trouble solving a
-small part of the challenge (or debugging some code.) This is all in good sport,
-and the overall goal is to just have fun programming and learn something along
-the way.
+The core mission of the Drexel Hackathon and Coding club is to give everyone the oppertunity to work on and discuss interesting programming challenges in a risk and judgement free environment. Each week, our members get together to talk about code, learn about development through discussion, and ultimately work on a programming challenge. Our officiers have worked very hard to make sure that each week the challenges are accessable to all developers regardelss of skill level. So if you're looking for a club that will let you meet other developers and work together to solve problems or one where you can hone your own skills and get feedback from your peers you've found the right place. 
 
 # Meetings
 
