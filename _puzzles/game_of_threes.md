@@ -2,7 +2,8 @@
 layout: page
 title: "Game of Threes: Integer Divisibility"
 permalink: /puzzle/game-of-threes
-hide: true
+hide: false
+week: 2
 ---
 
 Integer divisibility might sound boring, but it is actually quite
@@ -33,7 +34,7 @@ is_divisible_by(6, 2) #=> True
 
 ## Puzzles
 
-Today we have two
+Today we have two puzzles:
 
 * [Game of Threes](https://www.reddit.com/r/dailyprogrammer/comments/3r7wxz/20151102_challenge_239_easy_a_game_of_threes/)
 * [FizzBuzz](https://www.reddit.com/r/dailyprogrammer/comments/s6bas/4122012_challenge_39_easy/)
