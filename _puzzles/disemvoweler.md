@@ -2,7 +2,8 @@
 layout: page
 title: Disemvoweler
 permalink: /puzzle/Disemvoweler
-hide: true
+hide: false
+week: 3
 ---
 
 Being able to find elements in a list and remove them is a computing skill that will pop up many times in your programming career. In this challenge we will work on writing a program that will remove vowels and spaces from a given string.  
@@ -11,7 +12,6 @@ Being able to find elements in a list and remove them is a computing skill that 
 
 
 ```c
-//Statically-typed function template for clarity
 String removeCharFromString(String input, Char charToGet)
 ```
 

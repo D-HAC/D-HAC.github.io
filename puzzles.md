@@ -14,7 +14,8 @@ Here is a list of the puzzle descriptions we have made so far this term.
     </tr>
 </thead>
 <tbody>
-{% for puzzle in site.puzzles %}
+{% assign puzzles = site.puzzles | sort: 'week' %}
+{% for puzzle in puzzles %}
     {% unless puzzle.hide %}
     <tr>
         <td>Week {{puzzle.week}}</td>
