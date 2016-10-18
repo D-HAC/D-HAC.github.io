@@ -4,6 +4,7 @@ title: Disemvoweler
 permalink: /puzzle/Disemvoweler
 hide: false
 week: 3
+solutions: week3_disemvoweler
 ---
 
 Being able to find elements in a list and remove them is a computing skill that will pop up many times in your programming career. In this challenge we will work on writing a program that will remove vowels and spaces from a given string.  
