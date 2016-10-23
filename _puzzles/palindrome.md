@@ -4,6 +4,7 @@ title: Palindromes
 permalink: /puzzle/palindromes
 hide: false
 week: 4
+solutions: week4_palindromes
 ---
 
 A palindrome is a word or phrase that is the same spelled forwards and
