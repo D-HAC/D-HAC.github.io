@@ -11,7 +11,7 @@ opportunity to work on and discuss interesting programming challenges in a risk
 and judgement free environment. Each week, our members get together to talk
 about code, learn about development through discussion, and ultimately work on
 a programming challenge. Our officers have worked very hard to make sure that
-each week the challenges are accessible to all developers, regardless of skill 
+each week the challenges are accessible to all developers, regardless of skill
 level. So, if you're looking for a club that will let you meet other developers
 and work together to solve problems, or one where you can hone your own skills
 and get feedback from your peers, you've found the right place.
