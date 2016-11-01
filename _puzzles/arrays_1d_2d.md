@@ -4,6 +4,7 @@ title: 1D and 2D Arrays
 permalink: /puzzle/arrays_1d_2d
 hide: false
 week: 5
+solutions: week5_arrays
 ---
 
 1D Arrays are very common in programming. Often one needs a list of items

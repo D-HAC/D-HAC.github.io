@@ -2,7 +2,8 @@
 layout: page
 title: Counting Bases
 permalink: /puzzle/counting bases
-hide: true
+hide: false
+week: 6
 ---
 
 Sometimes it's useful to go through a list and tally up how many of each
