@@ -14,6 +14,7 @@ permalink: /resources/
 * [W3 Schools](http://www.w3schools.com/) - For all things Web Development
 * [Stack Overflow](http://stackoverflow.com/) - Forum for programmers. Every
     programmer's best friend.
+* [GitHub](https://github.com/vhf/free-programming-books/blob/master/free-programming-books.md) - A collection of resources for learning new programming languages. 
 
 # Programming Puzzle Resources
 
