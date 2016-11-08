@@ -3,6 +3,7 @@ layout: page
 title: "RNA to Protein"
 permalink: /puzzle/rna2protein
 hide: false
+week: 7
 ---
 
 This week let's take a look into genetics. Specifically, RNA
