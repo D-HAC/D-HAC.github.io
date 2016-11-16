@@ -4,6 +4,7 @@ title: "RNA to Protein"
 permalink: /puzzle/rna2protein
 hide: false
 week: 7
+solutions: week7_RNAToBases
 ---
 
 This week let's take a look into genetics. Specifically, RNA

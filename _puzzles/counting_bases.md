@@ -4,6 +4,7 @@ title: Counting Bases
 permalink: /puzzle/counting bases
 hide: false
 week: 6
+solutions: week6_countingbases
 ---
 
 Sometimes it's useful to go through a list and tally up how many of each

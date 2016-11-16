@@ -2,12 +2,13 @@
 layout: page
 title: "Anagram Detector"
 permalink: /puzzle/anagram
-hide: true
+hide: false
+week: 8
 ---
 
-String manipulation in general is both very useful and sometimes a little tricky. Before you start hacking away at this challenge look to see if there are any useful libraries that will help you in your language of choice. 
+String manipulation in general is both very useful and sometimes a little tricky. Before you start hacking away at this challenge look to see if there are any useful libraries that will help you in your language of choice.
 
-Today we are going to try to detect if a phrase is an anagram of another phrase. A phrase a="wisdom" is an anagram of another phrase b="mid sow" if, ignoring spaces, one phrase can be written with the letters of another. 
+Today we are going to try to detect if a phrase is an anagram of another phrase. A phrase a="wisdom" is an anagram of another phrase b="mid sow" if, ignoring spaces, one phrase can be written with the letters of another.
 
 ## Functions to Add to Your Code Library
 
@@ -27,7 +28,7 @@ containsLetter('h', "hello") #=> True
 
 ## Puzzle
 
-Solving the full puzzle will require getting a little more creative. Check out the daily programmer link for more details. 
+Solving the full puzzle will require getting a little more creative. Check out the daily programmer link for more details.
 
 
 [/r/dailyprogrammer: Anagram Detector](https://www.reddit.com/r/dailyprogrammer/comments/52enht/20160912_challenge_283_easy_anagram_detector/)
@@ -35,4 +36,3 @@ Solving the full puzzle will require getting a little more creative. Check out t
 ## Mini Project Ideas
 
 * To get even crazier, try to generate anagrams based off of a phrase or word. You can google search for a dictionary file or use the unix one to start.
-
