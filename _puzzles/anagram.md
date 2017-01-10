@@ -2,7 +2,7 @@
 layout: page
 title: "Anagram Detector"
 permalink: /puzzle/anagram
-hide: false
+hide: true
 week: 8
 ---
 

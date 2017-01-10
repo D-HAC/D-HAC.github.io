@@ -2,7 +2,7 @@
 layout: page
 title: Degrees
 permalink: /puzzle/degrees
-hide: false
+hide: true
 solutions: week1_degrees
 week: 1
 ---

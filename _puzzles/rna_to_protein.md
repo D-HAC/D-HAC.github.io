@@ -2,7 +2,7 @@
 layout: page
 title: "RNA to Protein"
 permalink: /puzzle/rna2protein
-hide: false
+hide: true
 week: 7
 solutions: week7_RNAToBases
 ---

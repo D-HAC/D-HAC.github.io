@@ -2,7 +2,7 @@
 layout: page
 title: Palindromes
 permalink: /puzzle/palindromes
-hide: false
+hide: true
 week: 4
 solutions: week4_palindromes
 ---

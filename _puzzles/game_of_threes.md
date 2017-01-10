@@ -2,7 +2,7 @@
 layout: page
 title: "Game of Threes: Integer Divisibility"
 permalink: /puzzle/game-of-threes
-hide: false
+hide: true
 solutions: week2_threes
 week: 2
 ---

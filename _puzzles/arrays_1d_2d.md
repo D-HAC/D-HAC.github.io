@@ -2,7 +2,7 @@
 layout: page
 title: 1D and 2D Arrays
 permalink: /puzzle/arrays_1d_2d
-hide: false
+hide: true
 week: 5
 solutions: week5_arrays
 ---

@@ -2,7 +2,7 @@
 layout: page
 title: Disemvoweler
 permalink: /puzzle/Disemvoweler
-hide: false
+hide: true
 week: 3
 solutions: week3_disemvoweler
 ---

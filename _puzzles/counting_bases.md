@@ -2,7 +2,7 @@
 layout: page
 title: Counting Bases
 permalink: /puzzle/counting bases
-hide: false
+hide: true
 week: 6
 solutions: week6_countingbases
 ---
