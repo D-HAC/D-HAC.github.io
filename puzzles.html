@@ -30,7 +30,7 @@ terms:
                 </a></td>
                 <td>
                 {% if puzzle.solutions %}
-                    <a href="https://github.com/D-HAC/solutions/tree/master/{{puzzle.solutions}}">
+                    <a href="https://github.com/D-HAC/solutions/tree/master/{{term | replace: ' ', '-'}}/{{puzzle.solutions}}">
                         Solutions
                     </a>
                 {% else %}
