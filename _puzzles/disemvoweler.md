@@ -2,8 +2,9 @@
 layout: page
 title: Disemvoweler
 permalink: /puzzle/Disemvoweler
-hide: true
+hide: false
 week: 3
+term: "Fall 2016-17"
 solutions: week3_disemvoweler
 ---
 

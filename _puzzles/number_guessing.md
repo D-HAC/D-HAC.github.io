@@ -4,6 +4,7 @@ title: Number Guessing Game
 permalink: /puzzle/number_guessing
 hide: false
 week: 1
+term: "Winter 2016-17"
 ---
 
 I'm thinking of a number between 1 and 100. What do you think it is?

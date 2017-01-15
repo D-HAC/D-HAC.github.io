@@ -2,8 +2,10 @@
 layout: page
 title: "Anagram Detector"
 permalink: /puzzle/anagram
-hide: true
+hide: false
 week: 8
+term: "Fall 2016-17"
+solutions: "week8_anagrams"
 ---
 
 String manipulation in general is both very useful and sometimes a little tricky. Before you start hacking away at this challenge look to see if there are any useful libraries that will help you in your language of choice.

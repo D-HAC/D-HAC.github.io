@@ -2,8 +2,9 @@
 layout: page
 title: Counting Bases
 permalink: /puzzle/counting bases
-hide: true
+hide: false
 week: 6
+term: "Fall 2016-17"
 solutions: week6_countingbases
 ---
 

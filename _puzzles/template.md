@@ -2,7 +2,11 @@
 layout: page
 title: TITLE
 permalink: /puzzle/PUZZLE-NAME
+# If true, this puzzle won't show up on the puzzle page
 hide: true
+# Make sure to match this format in order for the puzzles page
+# to group puzzles properly
+term: "Fall 2016-17"
 ---
 
 (SHORT BLURB MAYBE)

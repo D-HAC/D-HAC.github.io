@@ -2,8 +2,9 @@
 layout: page
 title: Palindromes
 permalink: /puzzle/palindromes
-hide: true
+hide: false
 week: 4
+term: "Fall 2016-17"
 solutions: week4_palindromes
 ---
 

@@ -1,0 +1,45 @@
+---
+layout: page
+title: Puzzles
+permalink: /puzzles/
+# Display order of terms. I'm listing them from newest to oldest
+terms:
+    - "Winter 2016-17"
+    - "Fall 2016-17"
+---
+
+{% assign puzzle_groups = site.puzzles | sort: 'week' | group_by: 'term' %}
+{% for term in page.terms %}
+    <h3>{{term}}</h3>
+    <table>
+    <thead>
+        <tr>
+            <th>Week</th>
+            <th>Puzzle</th>
+            <th>Solution</th>
+        </tr>
+    </thead>
+    <tbody>
+    {% assign group = puzzle_groups | where: 'name', term | first %}
+    {% for puzzle in group['items'] %}
+        {% unless puzzle.hide %}
+            <tr>
+                <td>Week {{puzzle.week}}</td>
+                <td><a href="{{puzzle.url | prepend: site.baseurl}}">
+                    {{puzzle.title}}
+                </a></td>
+                <td>
+                {% if puzzle.solutions %}
+                    <a href="https://github.com/D-HAC/solutions/tree/master/{{puzzle.solutions}}">
+                        Solutions
+                    </a>
+                {% else %}
+                    Solutions Not Yet Available!
+                {% endif %}
+                </td>
+            </tr>
+        {% endunless %}
+    {% endfor %}
+    </tbody>
+    </table>
+{% endfor %}

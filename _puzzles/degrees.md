@@ -2,9 +2,10 @@
 layout: page
 title: Degrees
 permalink: /puzzle/degrees
-hide: true
+hide: false
 solutions: week1_degrees
 week: 1
+term: "Fall 2016-17"
 ---
 
 Degrees come in two main varieties in math and science. You have

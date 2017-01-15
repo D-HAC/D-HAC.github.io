@@ -2,9 +2,10 @@
 layout: page
 title: "Game of Threes: Integer Divisibility"
 permalink: /puzzle/game-of-threes
-hide: true
+hide: false
 solutions: week2_threes
 week: 2
+term: "Fall 2016-17"
 ---
 
 Integer divisibility might sound boring, but it is actually quite
