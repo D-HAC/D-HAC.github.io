@@ -5,6 +5,7 @@ permalink: /puzzle/goldilocks
 hide: false
 week: 2
 term: "Winter 2016-17"
+solutions: "week2_goldilocks"
 ---
 
 Find the seat that is 'just right'
