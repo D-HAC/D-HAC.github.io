@@ -18,7 +18,7 @@ and get feedback from your peers, you've found the right place.
 
 # Meetings
 
-**Time**: Wednesdays, 5:00-6:00  
+**Time**: Tuesdays, 5:00-6:00  
 **Location**: [ExCITe Center](http://drexel.edu/excite/) -
     The building is 3401 Market Street (northwest corner of 34st and Market).
 
@@ -27,9 +27,4 @@ When you enter:
 1. Show your Drexel ID to the security guard at the desk.
 2. Go straight up a few stairs and go through the door with glass in
     the middle.
-3. Turn left and walk down the hallway almost to the end.
-4. You will find yourself with glass doors to your left and right. The ones
-    on the right will be at an angle. We are through the doors on the right.
-5. The doors are locked, but we will try our best to have someone at the door
-    to let everyone in. If we are not there, contact us through the phone
-    number listed in the weekly newsletter.
+3. Turn left and walk through the large double glass doors. 
