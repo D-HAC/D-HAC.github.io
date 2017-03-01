@@ -8,6 +8,7 @@ hide: false
 # to group puzzles properly
 term: "Winter 2016-17"
 week: 3
+solutions: week3_turtle
 ---
 
 ## Setup

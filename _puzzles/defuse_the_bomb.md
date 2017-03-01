@@ -5,6 +5,7 @@ permalink: /puzzle/defuse-the-bomb
 hide: false
 term: "Winter 2016-17"
 week: 6
+solutions: week6_defuse_the_bomb
 ---
 
 To disarm a bomb, one must cut some wires. The order in which the wires are cut is very important; cut the wires in the wrong order and the bomb will explode. Here are the rules for how the wires should be cut:

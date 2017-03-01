@@ -5,6 +5,7 @@ permalink: /puzzle/making-music
 hide: false
 term: "Winter 2016-17"
 week: 7
+solutions: week7_making_music
 ---
 
 In previous weeks, we have worked with drawing graphics. Today, however, we are going to work to create sounds.
