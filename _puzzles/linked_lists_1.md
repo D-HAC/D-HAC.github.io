@@ -4,7 +4,7 @@ title: Linked Lists 1
 permalink: /puzzle/linked-lists-1
 hide: false
 week: 1
-term: "Sprint 2016-17"
+term: "Spring 2016-17"
 solutions: "week1_linked-lists-1"
 ---
 
