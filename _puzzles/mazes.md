@@ -2,7 +2,7 @@
 layout: page
 title: mazes
 permalink: /puzzle/mazes
-hide: true
+hide: false 
 week: 2
 term: "Spring 2016-17"
 ---
