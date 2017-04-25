@@ -18,46 +18,30 @@ Many people make passwords by switching out certain characters in a word, so our
 Given a list of words and a list of single-character replacements, produce a list of every replacement permutation for those words.
 For Example, Given a list containing the word "PASSWORD" and a replacement set of `{S:$, A:4, O:0}`, the program should produce:
 
-PASSWORD
-
-PA$$WORD
-
-PA$SWORD
-
-PAS$WORD
-
-PASSWORD
-
-P4$$WORD
-
-P4$SWORD
-
-P4S$WORD
-
-P4SSWORD
-
-PASSW0RD
-
-PA$$W0RD
-
-PA$SW0RD
-
-PAS$W0RD
-
-PASSW0RD
-
-P4$$W0RD
-
-P4$SW0RD
-
-P4S$W0RD
-
-P4SSW0RD
+PASSWORD  
+PA$$WORD  
+PA$SWORD  
+PAS$WORD  
+PASSWORD  
+P4$$WORD  
+P4$SWORD  
+P4S$WORD  
+P4SSWORD  
+PASSW0RD  
+PA$$W0RD  
+PA$SW0RD  
+PAS$W0RD  
+PASSW0RD  
+P4$$W0RD  
+P4$SW0RD  
+P4S$W0RD  
+P4SSW0RD  
 
 Input:
 
  `[password, amazon, letmein, qwerty, baseball, iamroot, facebook]`
-Substitutions
+
+ Substitutions:
 
  `{a:@, e:3, i:!, l:1, o:0, s:$, t:+}`
 
