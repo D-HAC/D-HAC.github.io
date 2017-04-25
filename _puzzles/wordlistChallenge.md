@@ -5,7 +5,6 @@ permalink: /puzzle/wordlist
 hide: false
 week: 4
 term: "Spring 2016-17"
-solutions: week4_wordlist
 ---
 
 ## Background
