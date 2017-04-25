@@ -8,10 +8,11 @@ term: "Spring 2016-17"
 solutions: week4_wordlist
 ---
 
-Generate a Wordlist
+## Background
+
 Word lists are lists of strings, often used in password cracking attempts. 
 List items are usually composed of capital and lowercase letters, numbers, and symbols, and are designed to resemble real passwords.
-Many people make passwords by switching out certain characters in a word, so our wordlist will account for this.
+Many people make passwords by switching out certain characters in a word, so a wordlist should account for this.
 
 ## The Challenge
 
