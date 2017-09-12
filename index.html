@@ -6,8 +6,15 @@ layout: default
 
   <h1>Drexel Hackathon and Coding Club</h1>
   <!-- TODO: Description should go here. Let's discuss tomorrow -->
+  {% for page in site.pages %}
+    {% if page.title == "About" %}
+      {{page.content}}
+    {% endif %}
+  {% endfor %}
 
+<!--
   <h1 class="page-heading">Posts</h1>
+
 
   <ul class="post-list">
     {% for post in site.posts %}
@@ -20,7 +27,7 @@ layout: default
       </li>
     {% endfor %}
   </ul>
-
+  {% site.pages %}
   <p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | prepend: site.baseurl }}">via RSS</a></p>
-
+-->
 </div>
