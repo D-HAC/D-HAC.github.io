@@ -29,13 +29,13 @@ This function takes a string and checks if it reads the same both forwards and b
 Examples:
 
 ```c++
-is_palindrome('a');                     //=> True
-is_palindrome('aa');                    //=> True
-is_palindrome('ab');                    //=> False
-is_palindrome('racecar');               //=> True
-is_palindrome('deleted');               //=> False
+is_palindrome("a");                     //=> True
+is_palindrome("aa");                    //=> True
+is_palindrome("ab");                    //=> False
+is_palindrome("racecar");               //=> True
+is_palindrome("deleted");               //=> False
 // Note: this assumes that we already handled whitespace/punctuation
-is_palindrome('amanaplanacanalpanama'); //=> True
+is_palindrome("amanaplanacanalpanama"); //=> True
 ```
 
 ## Puzzle
