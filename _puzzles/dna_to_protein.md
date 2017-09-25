@@ -2,7 +2,7 @@
 layout: page
 title: "DNA to RNA to Protein"
 permalink: /puzzle/dna2protein
-hide: false
+hide: true
 week: 4
 term: "Fall 2017-18"
 ---

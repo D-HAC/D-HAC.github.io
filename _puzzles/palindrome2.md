@@ -2,7 +2,7 @@
 layout: page
 title: Palindromes
 permalink: /puzzle/palindromes_fa1718
-hide: false
+hide: true
 week: 2
 term: "Fall 2017-18"
 ---
