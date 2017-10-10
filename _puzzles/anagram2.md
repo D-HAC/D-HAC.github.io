@@ -2,7 +2,7 @@
 layout: page
 title: "Anagram Detector"
 permalink: /puzzle/anagram_fa1718
-hide: true
+hide: false
 week: 3
 term: "Fall 2017-18"
 ---
