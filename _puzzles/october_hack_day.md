@@ -2,7 +2,7 @@
 layout: page
 title: "October Hack Day"
 permalink: /puzzle/hack-october
-hide: true
+hide: false
 week: 5
 term: "Fall 2017-18"
 ---
