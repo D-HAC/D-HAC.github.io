@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Linked Lists
+title: "Linked Lists"
 permalink: /puzzle/linked_lists_2
 hide: false
 week: 3
