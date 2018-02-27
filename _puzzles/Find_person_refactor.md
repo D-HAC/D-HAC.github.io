@@ -1,4 +1,11 @@
-# Find Person
+---
+layout: page
+title: "Find Person"
+permalink: /puzzle/find_person
+hide: false
+week: 8
+term: "Winter 2017-18"
+---
 
 This is a classic OO practice problem that we're going to do a twist on. Create a simple object (or struct, if you really want) that has properties:
 age, name, birthMonth, SSN, ZIPCode. These can be public and primitive type, encapsulation and type safety aren't the point here. The simplest form of the java class is below
