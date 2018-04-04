@@ -2,10 +2,8 @@
 layout: page
 title: Large-scale compression
 permalink: /puzzle/Large-scale_compression
-# If true, this puzzle won't show up on the puzzle page
 hide: false
-# Make sure to match this format in order for the puzzles page
-# to group puzzles properly
+week: 1
 term: "Spring 2017-18"
 ---
 
