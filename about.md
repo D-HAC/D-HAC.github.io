@@ -16,15 +16,14 @@ level. So, if you're looking for a club that will let you meet other developers
 and work together to solve problems, or one where you can hone your own skills
 and get feedback from your peers, you've found the right place.
 
-# Meetings
-
-**Time**: Tuesdays, 5:00-6:00  
+# Meetings - Fall Term 17-18
+**Time**: Tuesdays, 6:00-7:00  
 **Location**: [ExCITe Center](http://drexel.edu/excite/) -
-    The building is 3401 Market Street (northwest corner of 34st and Market).
+    The building is 3401 Market Street (northwest corner of 34 st and Market).
 
 When you enter:
 
 1. Show your Drexel ID to the security guard at the desk.
 2. Go straight up a few stairs and go through the door with glass in
     the middle.
-3. Turn left and walk through the large double glass doors. 
+3. Turn left and walk through the large double glass doors.
