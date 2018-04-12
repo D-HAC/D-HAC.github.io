@@ -3,7 +3,7 @@ layout: page
 title: Large-scale compression
 permalink: /puzzle/Large-scale_compression
 hide: false
-week: 1
+week: 2
 term: "Spring 2017-18"
 ---
 
