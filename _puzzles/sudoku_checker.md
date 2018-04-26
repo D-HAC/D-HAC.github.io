@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Sudoku
+title: Sudoku Checker
 permalink: /puzzle/sudoku_checker
 # If true, this puzzle won't show up on the puzzle page
 hide: false
