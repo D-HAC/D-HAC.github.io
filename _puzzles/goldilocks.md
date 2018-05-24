@@ -3,14 +3,14 @@ layout: page
 title: Goldilocks
 permalink: /puzzle/goldilocks
 hide: false
-week: 2
-term: "Winter 2016-17"
+week: 8
+term: "Spring 2017-18"
 solutions: "week2_goldilocks"
 ---
 
 Find the seat that is 'just right'
 
-This week's puzzle is based on a recent dailyprogrammer challenge:
+This week's puzzle is based on a dailyprogrammer challenge:
 [/r/dailyprogrammer: Goldilocks' Bear Necessities](https://www.reddit.com/r/dailyprogrammer/comments/5bn0b7/20161107_challenge_291_easy_goldilocks_bear/)
 
 The story so far:
